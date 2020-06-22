@@ -17,4 +17,9 @@ public class TipActivity extends AppCompatActivity {
         startActivity(i);
 
     }
+    public void TipTwoClick(View v){
+        Intent i = new Intent(this, TipTwoActivity.class);
+        startActivity(i);
+
+    }
 }

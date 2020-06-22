@@ -1,4 +1,23 @@
 
-o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅÎ £øÿÿÿÿ8«±œº™.
+@
+java:S1128
+"Remove this duplicated import.(°şÊóøÿÿÿÿ8çúµ­.
+Q
+java:S1128"5Remove this unused import 'java.io.FileOutputStream'.(˜«ªg8èüıµ­.
+H
+java:S11726"+Remove this unused method parameter "view".(¿¦‡ø8Ò–Ñ¼­.
+o	java:S100D"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅÎ £øÿÿÿÿ8†Ò†¼­.
+N
+java:S1128	"1Remove this unused import 'android.app.Activity'.(‡ÊÍÆ8çúµ­.
+e
+java:S1128"CRemove this unused import 'android.support.v4.app.FragmentManager'.(úäçÇüÿÿÿÿ8ü¯í»­.
+Q
+java:S1128"4Remove this unused import 'android.widget.EditText'.(†Å›Ú8øûü¼­.
+T
+java:S1128"2Remove this unused import 'android.widget.Button'.(²òıÿÿÿÿ8¯±»­.
+Q
+java:S1128"4Remove this unused import 'java.io.FileInputStream'.(˜³ÉÓ8èüıµ­.
+M
+java:S1172."+Remove this unused method parameter "view".(Íµò×úÿÿÿÿ8äÎ˜¼­.
 J
-java:S1172"(Remove this unused method parameter "v".(ÅÎ £øÿÿÿÿ8«±œº™.
+java:S1172D"(Remove this unused method parameter "v".(ÅÎ £øÿÿÿÿ8†Ò†¼­.
