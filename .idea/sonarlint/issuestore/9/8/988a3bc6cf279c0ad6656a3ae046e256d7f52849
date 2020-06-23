@@ -1,30 +1,30 @@
 
-t	java:S116"SRename this field "btn_open" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù÷Âÿÿÿÿÿÿ8†³Ÿ«.
-p	java:S100¾"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ·ëàüÿÿÿÿ8«ÏË«.
-]	java:S125+"<This block of commented-out lines of code should be removed.(›÷ÿÿÿÿÿ8¡†Ô¼™.
-Q
-java:S1128"4Remove this unused import 'android.widget.EditText'.(†Å›Ú8ÏîÃ»™.
-Q
-java:S1066:"/Merge this if statement with the enclosing one.(ßãÂêÿÿÿÿÿ8õ£Ğ«.
-o	java:S116"TRename this field "btn_reset" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆÇš8¾Á†»™.
-o	java:S116"SRename this field "btn_stop" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€´¼Ñ8¢ø»™.
-u	java:S116"TRename this field "btn_start" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û¸ÁÉûÿÿÿÿ8åÜı¼™.
-k	java:S100·"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û¬›8«ÏË«.
+o	java:S116 "SRename this field "btn_stop" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€´¼Ñ8¢ø»™.
+]	java:S1254"<This block of commented-out lines of code should be removed.(›÷ÿÿÿÿÿ8ÁêáÔ­.
 F
-java:S1172·"(Remove this unused method parameter "v".(û¬›8«ÏË«.
-K
-java:S1172¾"(Remove this unused method parameter "v".(Æ·ëàüÿÿÿÿ8«ÏË«.
-t	java:S116"SRename this field "btn_lock" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßŞÓ’øÿÿÿÿ8ƒ·©Ÿ«.
-p	java:S100Ç"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»»»ıÿÿÿÿ8«ÏË«.
-e
-java:S3973›"GUse indentation to denote the code conditionally executed by this "if".(à˜İİ8êÚ·Ÿ«.
+java:S1172Í"(Remove this unused method parameter "v".(¡é††8ÁêáÔ­.
+t	java:S116""SRename this field "btn_open" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù÷Âÿÿÿÿÿÿ8†³Ÿ«.
 S
-java:S1128"1Remove this unused import 'android.widget.Toast'.(©›ïÍúÿÿÿÿ8¡¡ç«.
+java:S1128"1Remove this unused import 'android.widget.Toast'.(©›ïÍúÿÿÿÿ8¡¡ç«.
+p	java:S100¦"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»»»ıÿÿÿÿ8ÁêáÔ­.
+K
+java:S1172¦"(Remove this unused method parameter "v".(»»»ıÿÿÿÿ8ÁêáÔ­.
+o	java:S116"TRename this field "btn_reset" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆÇš8¾Á†»™.
+K
+java:S1172"(Remove this unused method parameter "v".(Æ·ëàüÿÿÿÿ8ÁêáÔ­.
 e
-java:S3973¢"GUse indentation to denote the code conditionally executed by this "if".(à˜İİ8€ô·Ÿ«.
+java:S3973Ç"GUse indentation to denote the code conditionally executed by this "if".(à˜İİ8êÚ·Ÿ«.
+e
+java:S3973Î"GUse indentation to denote the code conditionally executed by this "if".(à˜İİ8€ô·Ÿ«.
+p	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ·ëàüÿÿÿÿ8ÁêáÔ­.
+Q
+java:S1128"4Remove this unused import 'android.widget.EditText'.(†Å›Ú8ÏîÃ»™.
+F
+java:S1172–"(Remove this unused method parameter "v".(û¬›8ÁêáÔ­.
+k	java:S100–"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û¬›8ÁêáÔ­.
+u	java:S116"TRename this field "btn_start" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û¸ÁÉûÿÿÿÿ8åÜı¼™.
 N
 java:S1128"1Remove this unused import 'android.app.Activity'.(‡ÊÍÆ8ÒŸø¶­.
-F
-java:S1172¡"(Remove this unused method parameter "v".(¡é††8õ£Ğ«.
-K
-java:S1172Ç"(Remove this unused method parameter "v".(»»»ıÿÿÿÿ8«ÏË«.
+ª
+java:S2681Ğ"†This line will not be executed conditionally; only the first line of this 2-line block will be. The rest will execute unconditionally.(ÚÄ¦òøÿÿÿÿ8İ”Ô­.
+t	java:S116!"SRename this field "btn_lock" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßŞÓ’øÿÿÿÿ8ƒ·©Ÿ«.
